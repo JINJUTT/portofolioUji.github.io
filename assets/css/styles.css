@@ -1,0 +1,49 @@
+body {
+  font-family: Poppins, sans-serif;
+  --bs-primary: #2b242a;
+  --bs-primary-rgb: 43,36,42;
+  --bs-info: #D5B269;
+  --bs-info-rgb: 213,178,105;
+  --bs-light: #E5E4E1;
+  --bs-light-rgb: 229,228,225;
+  --bs-body-color: var(--bs-orange);
+  --bs-body-bg: var(--bs-primary);
+  --bs-body-font-weight: 300;
+  color: var(--bs-orange);
+}
+
+.container {
+  height: 100%;
+  max-width: 960px;
+}
+
+h1 {
+}
+
+.text-badge {
+  padding: .1em .4em;
+  background: var(--bs-light);
+  border-radius: 36px;
+  border-style: solid;
+  border-color: var(--bs-info);
+}
+
+.banner {
+}
+
+.projects {
+  --bs-gutter-y: 100px;
+}
+
+footer {
+  border-color: var(--bs-dark);
+}
+
+.projectt {
+  --bs-gutter-y: 1.5rem;
+}
+
+.projek {
+  --bs-gutter-y: 1.5rem;
+}
+
